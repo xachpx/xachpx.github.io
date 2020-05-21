@@ -1,7 +1,6 @@
-<span id="a">root@xachpx-labs</span>:<span id="b">~</span><span id="c">$</span> <br/>
-
-Hello, I'm Hadi! I'm a software developer based in Jakarta, Indonesia.<!-- laglaglaglaglaglaglaglaglaglaglaglag --><p>Right now i'm working at <a href="https://kerb.works">kerb.works</a> remotely from indonesia</p>
-<p>You can say hello or see my previous work at here: .</p> <!-- ksjdokhdfgdufdfkjhfkjahdfkjhafkjhakf -->
-<p> <br> <a href="https://www.linkedin.com/in/hadixakbar/">linkedin</a> <br> <a href="https://github.com/xachpx">GitHub</a> and <br> email at hadixakbar[at]gmail.com .</p>
+Hello, I'm Hadi! I'm a software developer based in Jakarta, Indonesia.<!-- laglaglaglaglaglaglaglaglaglaglaglag --><p>
+Right now i'm working at <a href="https://kerb.works">kerb.works</a> remotely from Indonesia</p>
+<p>You can say hello or see my previous work at here: </p> 
+<p> <br> <a href="https://www.linkedin.com/in/hadixakbar/">linkedin</a> <br> <a href="https://github.com/xachpx">GitHub</a> and <br> email at <a>hadixakbar[at]gmail.com</a> .</p>
 
 <p>Cheers!</p>
